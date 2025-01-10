@@ -45,7 +45,7 @@ cron.schedule('0 */2 * * *', async () => {
 // }
 //   save();
 app.get('/',(req,res)=>{
-    res.json({msg:"Welcome to User-Transaction field",
+    res.json({msg:"Welcome to KoinX",
       stats:"use this url : /api/stats?coin=coin_name",
       pagination:":  /api/deviation?coin=coin_name"
     });
