@@ -24,5 +24,19 @@ This project is a Node.js application that fetches cryptocurrency data every 2 h
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/HarshProj/cryptocurrency-data-fetcher.git
-cd cryptocurrency-data-fetcher
+git clone https://github.com/HarshProj/KoinX.git
+```
+### Home page
+![image](https://github.com/user-attachments/assets/ddda5505-278e-4cf8-9d06-396d34183625)
+
+### Coin Stats
+![image](https://github.com/user-attachments/assets/7a8ca39a-3f06-4b42-b607-e22bdb546956)
+
+### Deviation
+![image](https://github.com/user-attachments/assets/cedc2b15-3340-4bcb-8899-2d2de014e6f4)
+
+### extra
+## Top 15 entries
+![image](https://github.com/user-attachments/assets/bfe1f9d9-d409-4d4d-9144-508311ac79c2)
+
+
