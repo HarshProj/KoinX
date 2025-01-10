@@ -24,5 +24,5 @@ This project is a Node.js application that fetches cryptocurrency data every 2 h
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cryptocurrency-data-fetcher.git
+git clone https://github.com/HarshProj/cryptocurrency-data-fetcher.git
 cd cryptocurrency-data-fetcher
