@@ -44,6 +44,12 @@ cron.schedule('0 */2 * * *', async () => {
   });
 // }
 //   save();
+app.get('/',(req,res)=>{
+    res.json({msg:"Welcome to User-Transaction field",
+      stats:"use this url : /api/stats?coin=coin_name",
+      pagination:":  /api/deviation?coin=coin_name"
+    });
+  } );
 app.use('/api',require('./Routes/stats'));
 
 // Route: /deviation
